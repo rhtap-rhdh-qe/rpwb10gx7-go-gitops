@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rpwb10gx7-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rpwb10gx7-go
